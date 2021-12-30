@@ -1,15 +1,16 @@
 <?php
 
 ## CONFIG ##
+$email= $_POST['email']; 
 
 # LIST EMAIL ADDRESS
-$recipient = "nsmprimeone@gmail.com";
+$recipient = "srvice@greenplanetus.com";
 
 # SUBJECT (Subscribe/Remove)
 $subject = "Subscribe";
 
 # RESULT PAGE
-$location = "";
+$location = "tk.html";
 
 ## FORM VALUES ##
 
